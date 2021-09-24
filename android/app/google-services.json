@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505464415081",
+    "firebase_url": "https://acapbattery-6c8af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "acapbattery-6c8af",
+    "storage_bucket": "acapbattery-6c8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505464415081:android:a647c8ea278bc5eb72d3f8",
+        "android_client_info": {
+          "package_name": "com.acapbattery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505464415081-59hcmtl6vev9p7cl1n58o4blteq8838l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acapbattery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "505464415081-kmbhdqkl58fk8gc7qgmhuilq0l5flr48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKrWmCNxmTkBg7rQL9QLOlXPdgAeEyyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505464415081-kmbhdqkl58fk8gc7qgmhuilq0l5flr48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
